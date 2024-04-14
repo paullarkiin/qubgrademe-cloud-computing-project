@@ -1,0 +1,32 @@
+
+body {
+    margin-top: 5%;
+    font-family: arial, sans-serif;
+}
+
+h1 {
+    
+    font-family: Calibri, sans-serif;
+    font-weight: lighter;
+    color: #505050;
+    margin: 0.5em;
+}
+
+
+.center {
+    max-width: max-content;
+    margin: auto;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+   
