@@ -1,0 +1,9 @@
+image: dart:stable
+stages:
+     - test
+
+test:
+    stage: test
+    script:
+    - dart pub get 
+    - dart test

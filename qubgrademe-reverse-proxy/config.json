@@ -1,0 +1,21 @@
+{
+    "servicesURLs": {
+        "minmaxURLs": 
+            "http://maxmin.your.domain.here/"
+        ,
+        "sortmodulesURLs": 
+            "http://sort.your.domain.here/"
+        ,
+        "totalURLs": 
+            "http://total.your.domain.here/"
+        ,
+        "classifyURLs": 
+            "http://classify.your.domain.here/"
+        ,
+        "averageURLs": 
+            "http://average.your.domain.here/"
+        ,
+        "meanURLs": 
+            "http://mean.your.domain.here"       
+    }
+}

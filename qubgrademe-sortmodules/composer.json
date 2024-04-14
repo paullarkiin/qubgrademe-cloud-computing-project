@@ -1,0 +1,16 @@
+{
+    "name": "paullarkin/qubgrademe-maxmin",
+    "autoload": {
+        "psr-4": {
+            "Paullarkin\\QubgrademeMaxmin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "paul larkin"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
